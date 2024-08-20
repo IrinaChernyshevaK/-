@@ -1,0 +1,5 @@
+homework=12
+tota_costs=1.5
+well='Python'
+costs1=tota_costs/homework
+print("Курс:", well,",всего задач:",homework,",затрачено часов:",tota_costs,",среднее время выполнения:",costs1, "часа" )
